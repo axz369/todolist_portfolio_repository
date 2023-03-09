@@ -1,0 +1,68 @@
+header{
+    background-color: #EEEEEE;
+    height: 70px;  
+    line-height: 70px;  
+}
+
+.headerTitle{
+    font-size: 40px;
+    margin-left: 60px;
+}
+
+body{
+    background-color: #D7D3CA;
+}
+
+.table{
+    margin: 0 auto;
+    margin-top: 70px;
+    border-spacing: 0 20px;
+    width: 600px;
+}
+
+.tableItem{
+    background-color: rgb(245, 245, 245);
+    height: 60px;
+}
+
+.content{
+    padding: 15px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    background-color: #637CBB;
+    text-align: center;
+}
+
+.form{
+    text-align: center;
+    padding-top: 50px;
+    height: 700px;
+}
+
+.deleteButton{
+    background-color: #637CBB;
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    line-height: 40px;
+    font-size: 20px;
+}
+
+.tdButton{
+    width: 60px;
+}
+
+textarea{
+    background-color: #EEEEEE;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+button {
+    width: 100px;
+    height:45px;
+    background-color: #637CBB;
+  }
